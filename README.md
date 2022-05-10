@@ -7,8 +7,8 @@
 <p aling="center">✅ Flexible website design developed at RocketSeat's NLW using HTML, CSS & JAVASCRIPT </p> 
 
 <div aling="center">
-  <img src="assets/doctorcareDesktop.gif" alt="" height="300">
-  <img src="assets/doctorcareMobile.gif" alt="" height="300">
+  <img src="assets/doctorcareDesktop.gif" alt="" height="350">
+  <img src="assets/doctorcareMobile.gif" alt="" height="350">
 </div>
 
 ---
